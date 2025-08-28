@@ -1,2 +1,1 @@
-# alx-airbnb-database
-Database design 
+# readme.md
